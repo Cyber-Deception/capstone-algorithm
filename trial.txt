@@ -1,0 +1,6 @@
+VM1, Metasploitable
+VM2, Ubuntu
+VM3, Windows
+VM4, Windows
+VM5, Fedora
+VM6, Ubuntu
