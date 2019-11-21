@@ -1,6 +1,6 @@
-VM1, Metasploitable
-VM2, Ubuntu
-VM3, Windows
-VM4, Windows
-VM5, Fedora
-VM6, Ubuntu
+VM1, Metasploitable, 5
+VM2, Ubuntu, 443
+VM3, Windows, 80, 5
+VM4, Windows, 5
+VM5, Fedora, 443
+VM6, Ubuntu, 26
