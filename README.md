@@ -17,3 +17,7 @@ How to run: python3 miniMax.py [INPUT_TEXT_NAME_HERE].txt
 (3) fileManager.py // not being used right now - can be used if we want to print out the output into a file
         Input: Takes in output of miniMax.py
         Output: Outputs data structure into the masked configuration into a text file
+
+(4) NmapScan.py 
+       Used for fetching all the services, ports, versions on the host machine
+       python NmapScan.py
